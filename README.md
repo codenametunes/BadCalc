@@ -2,7 +2,7 @@
 
 A calculator that's just bad. On purpose.
 
->> Early development! No calculations YET
+> Early development! No calculations YET
 
 ## What is this?
 
@@ -34,7 +34,7 @@ BadCalc is a deliberately terrible calculator. The goal is a calculator that loo
 - [x] Button input and display
 - [ ] Basic arithmetic (correct, at first)
 - [ ] Introduce the bugs
-- [ ] Drift on repeated `=`
+- [ ] Drift on repeated =
 - [ ] Floating-point chaos mode
 
 ## License
