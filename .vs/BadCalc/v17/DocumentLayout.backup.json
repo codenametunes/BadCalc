@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\BadCalc\\BadCalc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{89000ED6-F618-4979-A3BC-7C77F68271A8}|BadCalc.vcxproj|C:\\Projects\\BadCalc\\BadCalc\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{89000ED6-F618-4979-A3BC-7C77F68271A8}|BadCalc.vcxproj|solutionrelative:main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89000ED6-F618-4979-A3BC-7C77F68271A8}|BadCalc.vcxproj|C:\\Projects\\BadCalc\\BadCalc\\menu.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{89000ED6-F618-4979-A3BC-7C77F68271A8}|BadCalc.vcxproj|solutionrelative:menu.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89000ED6-F618-4979-A3BC-7C77F68271A8}|BadCalc.vcxproj|C:\\Projects\\BadCalc\\BadCalc\\app.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{89000ED6-F618-4979-A3BC-7C77F68271A8}|BadCalc.vcxproj|solutionrelative:app.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Projects\\BadCalc\\BadCalc\\main.c",
+              "RelativeDocumentMoniker": "main.c",
+              "ToolTip": "C:\\Projects\\BadCalc\\BadCalc\\main.c",
+              "RelativeToolTip": "main.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-11-04T12:16:09.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "menu.c",
+              "DocumentMoniker": "C:\\Projects\\BadCalc\\BadCalc\\menu.c",
+              "RelativeDocumentMoniker": "menu.c",
+              "ToolTip": "C:\\Projects\\BadCalc\\BadCalc\\menu.c",
+              "RelativeToolTip": "menu.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-11-04T12:16:06.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "app.c",
+              "DocumentMoniker": "C:\\Projects\\BadCalc\\BadCalc\\app.c",
+              "RelativeDocumentMoniker": "app.c",
+              "ToolTip": "C:\\Projects\\BadCalc\\BadCalc\\app.c",
+              "RelativeToolTip": "app.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-11-04T12:15:37.612Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
