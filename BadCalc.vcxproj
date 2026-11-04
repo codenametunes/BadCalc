@@ -127,22 +127,9 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="app.c" />
-    <ClCompile Include="button.c" />
-    <ClCompile Include="credits.c" />
-    <ClCompile Include="display.c" />
-    <ClCompile Include="gfx.c" />
-    <ClCompile Include="keypad.c" />
     <ClCompile Include="main.c" />
-    <ClCompile Include="menu.c" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="app.h" />
-    <ClInclude Include="button.h" />
-    <ClInclude Include="display.h" />
-    <ClInclude Include="gfx.h" />
-    <ClInclude Include="keypad.h" />
-    <ClInclude Include="menu.h" />
     <ClInclude Include="theme.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
